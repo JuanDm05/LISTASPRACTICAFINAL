@@ -1,0 +1,7 @@
+C:\Users\juani\source\repos\ListaPeople\ListaPeople\bin\Debug\ListaPeople.exe.config
+C:\Users\juani\source\repos\ListaPeople\ListaPeople\bin\Debug\ListaPeople.exe
+C:\Users\juani\source\repos\ListaPeople\ListaPeople\bin\Debug\ListaPeople.pdb
+C:\Users\juani\source\repos\ListaPeople\ListaPeople\obj\Debug\ListaPeople.csproj.AssemblyReference.cache
+C:\Users\juani\source\repos\ListaPeople\ListaPeople\obj\Debug\ListaPeople.csproj.CoreCompileInputs.cache
+C:\Users\juani\source\repos\ListaPeople\ListaPeople\obj\Debug\ListaPeople.exe
+C:\Users\juani\source\repos\ListaPeople\ListaPeople\obj\Debug\ListaPeople.pdb
